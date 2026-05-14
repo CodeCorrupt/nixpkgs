@@ -189,6 +189,7 @@
   ./programs/ccache.nix
   ./programs/cdemu.nix
   ./programs/cfs-zen-tweaks.nix
+  ./programs/chainctl.nix
   ./programs/chromium.nix
   ./programs/chrysalis.nix
   ./programs/clash-verge.nix
